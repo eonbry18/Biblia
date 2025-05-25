@@ -14,4 +14,12 @@ OS HINOS NA PASTA LOUVOR DEVE SER NOMEADOS CONFORME ESTA DENTRO DE: louvor.json 
 VOCE NOMEARA O HINO .MP3 NA PASTA louvor COM O MESMO NOME DO JSON ACIMA EX: 1 - Por Tua morte lá na cruz.mp3
 ASSIM SERA RECONHECIDO EM SEU SITE.
 
-OBS:  TODO O SITE E EDITAVEL SEGUNDO SUA VONTADE, REPLIQUE, MELHORE, COMPARTILHE PRA GLORIA DE DEUS !
+5- FAÇA CONFORME SEU GOSTO, MODIFIQUE, CONPARTILHE PRA HONDA DE JESUS CRISTO!
+6- DEVELOPER: EMANUEL NASCIMENTO 
+=================================================================================================================
+
+
+--------------------------------------------------------------
+--------------> CONTATO: 34999984348 <------------------------
+--------------> DEV:EMANUEL NASCIMENTO <----------------------
+--------------------------------------------------------------
